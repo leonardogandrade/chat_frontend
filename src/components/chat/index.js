@@ -36,7 +36,10 @@ export default function Chatbox() {
     return (
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <Typography>
-                Welcome to YYZ chat
+                Welcome to 2112 chat
+            </Typography>
+            <Typography>
+                ** when email was presented, type <b>#send_mail</b> to send for the recipient
             </Typography>
 
             <TextField
